@@ -33,4 +33,3 @@ The final assignment involved a comparative analysis between two pre-trained mod
 <p><strong>Conclusion:</strong><br>
 Based on the performance metrics, it is evident that VGG16 outperforms ResNet50 for this specific dataset. With a validation accuracy of 99.81%, VGG16 is deemed more suitable for the task at hand. The successful completion of this final assignment resulted in a perfect grade of 100%.</p>
 
-<p><strong>Check out the full project here:</strong> <a href="GitHub readme link">GitHub Readme Link</a></p>
